@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @farideilanda
-currently a Microsoft Business Applications Solution Architect.
+- I'm Faride ILANDA, currently a Microsoft Business Applications Solution Architect.
 - 📫 How to reach me ! faride.ilanda@outlook.com
 <!---
 farideilanda/farideilanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
