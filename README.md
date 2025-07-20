@@ -7,4 +7,4 @@ I actively share my expertise through my blog ► [**Faride ILANDA (Eng.)'s Blog
 It’s a meaningful way for me to contribute to the community, exchange knowledge, and help others make the most of these powerful technologies.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/faride-ilanda)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/faride-ilanda)
