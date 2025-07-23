@@ -1,6 +1,6 @@
 ### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-`I'm Faride! a Technical Architect at HCLTech • Microsoft Business Applications`
+`I'm Faride! a Technical Architect at HCLTech • Microsoft Power Platform`
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/faride-ilanda)
