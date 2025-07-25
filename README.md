@@ -2,7 +2,7 @@
 
 `I'm Faride! a Solutions Architect • Microsoft Power Platform`
 
-Expore my Blog → [**Faride ILANDA's Blog**](https://farideilanda.wixsite.com/blog)
+Expore my Blog → [**Faride Ilanda's Blog**](https://farideilanda.wixsite.com/blog)
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/faride-ilanda)
