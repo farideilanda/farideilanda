@@ -2,9 +2,10 @@
 
 I'm Faride!
 <br/>
-`Enterprise Architect · Microsoft Power Platform`  `Project and Team Manager`
+💼 `Enterprise Architect · Microsoft Power Platform`  `Project and Team Manager`
+🏛️ `λ`
   
-Expore my Blog → [**Faride Ilanda's Blog**](https://farideilanda.wixsite.com/blog)
+𓂃🖊 → [**Faride Ilanda's Blog**](https://farideilanda.wixsite.com/blog)
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/faride-ilanda)
