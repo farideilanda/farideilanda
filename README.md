@@ -1,8 +1,6 @@
 #### Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm Faride!
 
-💼 `Principal Architect · Microsoft Power Platform`
-<br/>
-⚡ `Enterprise Architect · Microsoft Business Applications`  `Project and Team Manager`
+💼 `Principal Architect` `Microsoft Power Platform`
 <br/>
 🏛️ `λ`
   
